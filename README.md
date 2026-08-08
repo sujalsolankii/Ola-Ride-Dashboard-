@@ -44,7 +44,6 @@ Ola Bookings dataset — [Kaggle](https://www.kaggle.com/) (20,000+ ride records
 **Business impact:**
 - ₹69L+ in revenue analyzed and segmented
 - Found 38% ride failure is **driver-side heavy** (cancellations + "Driver Not Found"), not customer-side — redirecting where the
--
 - **business should fix the problem
 - Flagged a ~1% repeat-customer rate, exposing a retention gap the completion-rate numbers alone wouldn't show
 - Identified 54% cash dependency as a digital-payment adoption opportunity
