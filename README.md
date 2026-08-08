@@ -49,4 +49,4 @@ Ola Bookings dataset — [Kaggle](https://www.kaggle.com/) (20,000+ ride records
 - Identified 54% cash dependency as a digital-payment adoption opportunity
 
 - **Screenshot & Demos:**
-- Dashboard Preview :https://github.com/sujalsolankii/Ola-Ride-Dashboard-/blob/main/ola%20dashboard.png
+- Dashboard Preview :(https://github.com/sujalsolankii/Ola-Ride-Dashboard-/blob/main/ola%20dashboard.png)
